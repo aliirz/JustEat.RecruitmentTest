@@ -1,4 +1,4 @@
-Just Eat Test DevOps Engineer Recruitment Test
+AuditExpert DevOps Engineer Recruitment Test
 ==================================
 
 Thank you for taking the time to do our technical test. It consists of two parts:
@@ -43,7 +43,6 @@ Please answer the following questions in a markdown file called `Answers to tech
 1. How long did you spend on the coding test? What would you add to your solution if you had more time? If you didn't spend much time on the coding test then use this as an opportunity to explain what you would add.
 2. Why did you choose the language you used for the coding test?
 3. What was the most useful feature that was added to the latest version of your chosen language?
-4. Please describe yourself using JSON.
+4. Please describe yourself using a bash script.
 
-#### Thanks for your time, we look forward to hearing from you!
-- The [Just Eat Tech team](https://careers.just-eat.com/departments/technology)
+#### Thanks for your time!
